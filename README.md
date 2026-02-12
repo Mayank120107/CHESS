@@ -35,6 +35,8 @@ npm start
 ## App runs at:
  https://chess-with-ai.vercel.app/
 
+---
+
 ## 🎮 How to Play
 
 - You play as White
@@ -43,14 +45,14 @@ npm start
 
 - Use Restart anytime
 
+---
+
 ## 👤 Author
 
   ## Mayank Kumar
   ## https://github.com/Mayank120107
 
-.
-..
-...
+---
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
