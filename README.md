@@ -1,5 +1,57 @@
 # React + Vite
 
+# ♟️ Chess Game with AI (React)
+
+A single-player chess game built using **React**, where you play against an **AI opponent** powered by the **Minimax algorithm with Alpha-Beta pruning**.
+
+---
+
+## 🚀 Features
+
+- Single-player chess vs AI
+- Minimax AI with Alpha-Beta pruning
+- Restart game
+- Drag-and-drop chess pieces
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- chess.js
+- react-chessboard
+- JavaScript
+
+---
+
+## 📦 Setup
+
+```bash
+git clone https://github.com/Mayank120107/CHESS.git
+cd CHESS
+npm install
+npm start
+
+## App runs at:
+ https://chess-with-ai.vercel.app/
+
+## 🎮 How to Play
+
+- You play as White
+
+- Make a move → AI responds automatically
+
+- Use Restart anytime
+
+## 👤 Author
+
+  ## Mayank Kumar
+  ## https://github.com/Mayank120107
+
+.
+..
+...
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
