@@ -94,15 +94,8 @@ export default function App() {
     }
   }
 
-  // UNDO
-  function undoMove() {
-    const gameCopy = new Chess(game.fen());
-    gameCopy.undo();
-    gameCopy.undo();
-    setGame(gameCopy);
-  }
 
-  // RESTART
+  // RESTART GAME
   function restartGame() {
     setGame(new Chess());
   }
@@ -122,9 +115,6 @@ export default function App() {
       />
 
       <div style={{ marginTop: 15 }}>
-        <button onClick={undoMove} style={{ marginRight: 10 }}>
-          Undo
-        </button>
         <button onClick={restartGame}>
           Restart
         </button>
