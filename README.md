@@ -32,7 +32,11 @@ cd CHESS
 
 npm install
 
-npm start
+npm run dev
+
+Then open the local URL shown in the terminal (usually http://localhost:5173)
+
+---
 
 App runs at:
  https://chess-with-ai.vercel.app/
