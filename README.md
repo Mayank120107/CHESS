@@ -27,8 +27,11 @@ A single-player chess game built using **React**, where you play against an **AI
 ## 📦 Setup
 
 git clone https://github.com/Mayank120107/CHESS.git
+
 cd CHESS
+
 npm install
+
 npm start
 
 App runs at:
